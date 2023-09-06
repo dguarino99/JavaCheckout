@@ -1,9 +1,4 @@
-//Code written by Dominic Guarino
-//Honor Code: I have neither given nor received unauthorized aid in completing this work, nor have I presented someone else's work as my own
-//LTU Honor Code: I have neither given nor received unauthorized aid in completing this work, nor have I presented someone else's work as my own
-
-
-//TO DO: Import item list from .txt file, create GUI
+//TO DO: create GUI
 
 
 import java.io.File;
